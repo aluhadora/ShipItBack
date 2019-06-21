@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\allan.harper\\code\\shipit\\ShipItBack\\ShipItBack\\ShipItBack.csproj": {}
+    "C:\\Users\\Heather.Walker\\Documents\\Heather\\ShipItBack\\ShipItBack\\ShipItBack.csproj": {}
   },
   "projects": {
-    "C:\\Users\\allan.harper\\code\\shipit\\ShipItBack\\ShipItBack\\ShipItBack.csproj": {
+    "C:\\Users\\Heather.Walker\\Documents\\Heather\\ShipItBack\\ShipItBack\\ShipItBack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\allan.harper\\code\\shipit\\ShipItBack\\ShipItBack\\ShipItBack.csproj",
+        "projectUniqueName": "C:\\Users\\Heather.Walker\\Documents\\Heather\\ShipItBack\\ShipItBack\\ShipItBack.csproj",
         "projectName": "ShipItBack",
-        "projectPath": "C:\\Users\\allan.harper\\code\\shipit\\ShipItBack\\ShipItBack\\ShipItBack.csproj",
-        "packagesPath": "C:\\Users\\allan.harper\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\allan.harper\\code\\shipit\\ShipItBack\\ShipItBack\\obj\\",
+        "projectPath": "C:\\Users\\Heather.Walker\\Documents\\Heather\\ShipItBack\\ShipItBack\\ShipItBack.csproj",
+        "packagesPath": "C:\\Users\\Heather.Walker\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Heather.Walker\\Documents\\Heather\\ShipItBack\\ShipItBack\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\allan.harper\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Heather.Walker\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,7 +25,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://proget.stormwind.local/nuget/devpkg/": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
