@@ -1,0 +1,14 @@
+C:\Users\allan.harper\code\shipit\ShipItBack\ShipItBack\bin\Debug\netcoreapp2.2\ShipItBack.deps.json
+C:\Users\allan.harper\code\shipit\ShipItBack\ShipItBack\bin\Debug\netcoreapp2.2\ShipItBack.runtimeconfig.json
+C:\Users\allan.harper\code\shipit\ShipItBack\ShipItBack\bin\Debug\netcoreapp2.2\ShipItBack.runtimeconfig.dev.json
+C:\Users\allan.harper\code\shipit\ShipItBack\ShipItBack\bin\Debug\netcoreapp2.2\ShipItBack.dll
+C:\Users\allan.harper\code\shipit\ShipItBack\ShipItBack\obj\Debug\netcoreapp2.2\ShipItBack.csprojAssemblyReference.cache
+C:\Users\allan.harper\code\shipit\ShipItBack\ShipItBack\obj\Debug\netcoreapp2.2\ShipItBack.csproj.CoreCompileInputs.cache
+C:\Users\allan.harper\code\shipit\ShipItBack\ShipItBack\obj\Debug\netcoreapp2.2\ShipItBack.RazorAssemblyInfo.cache
+C:\Users\allan.harper\code\shipit\ShipItBack\ShipItBack\obj\Debug\netcoreapp2.2\ShipItBack.RazorAssemblyInfo.cs
+C:\Users\allan.harper\code\shipit\ShipItBack\ShipItBack\obj\Debug\netcoreapp2.2\ShipItBack.AssemblyInfoInputs.cache
+C:\Users\allan.harper\code\shipit\ShipItBack\ShipItBack\obj\Debug\netcoreapp2.2\ShipItBack.AssemblyInfo.cs
+C:\Users\allan.harper\code\shipit\ShipItBack\ShipItBack\obj\Debug\netcoreapp2.2\ShipItBack.RazorTargetAssemblyInfo.cache
+C:\Users\allan.harper\code\shipit\ShipItBack\ShipItBack\bin\Debug\netcoreapp2.2\ShipItBack.pdb
+C:\Users\allan.harper\code\shipit\ShipItBack\ShipItBack\obj\Debug\netcoreapp2.2\ShipItBack.dll
+C:\Users\allan.harper\code\shipit\ShipItBack\ShipItBack\obj\Debug\netcoreapp2.2\ShipItBack.pdb
