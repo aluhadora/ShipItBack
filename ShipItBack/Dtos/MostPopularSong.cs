@@ -9,6 +9,7 @@ namespace ShipItBack.Dtos
     {
         public string SongName { get; set; }
         public string SongCount { get; set; }
+        public string Image { get; set; }
         
     }
 }

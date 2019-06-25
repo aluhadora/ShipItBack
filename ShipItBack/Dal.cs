@@ -1,8 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Data;
-using System.Linq;
-using System.Threading.Tasks;
 using ServiceStack.OrmLite;
 using ServiceStack.OrmLite.SqlServer;
 using ShipItBack.Dtos;
@@ -102,6 +99,21 @@ namespace ShipItBack
                     cmd.AddParam("SongName", songName);
 
                 return cmd.ExecuteReader().ConvertToList<MostPopularSong>(new SqlServer2008OrmLiteDialectProvider());
+                }
+            }
+        }
+
+        public static User GetUser(int id)
+        {
+            using (var connection = OpenConnection())
+            {
+                using (var cmd = connection.SqlProc(@"dbo.User_Get_ByUserId"))
+                {
+                    cmd.CommandTimeout = ContextFactory.CommandTimeout;
+
+                    cmd.AddParam("UserId", id);
+
+                    return cmd.ExecuteReader().ConvertTo<User>(new SqlServer2008OrmLiteDialectProvider());
                 }
             }
         }

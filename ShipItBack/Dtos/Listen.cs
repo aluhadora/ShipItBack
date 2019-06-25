@@ -5,11 +5,12 @@ using System.Threading.Tasks;
 
 namespace ShipItBack.Dtos
 {
-    public class MostPlayedSongs
+    public class Listen
     {
-        public string Name { get; set; }
-        public string SongCount { get; set; }
         public string SongName { get; set; }
+        public string ArtistName { get; set; }
+        public string AlbumTitle { get; set; }
         public string Image { get; set; }
+        public DateTime? PlayedOn { get; set; }
     }
 }
